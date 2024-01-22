@@ -1,0 +1,11 @@
+Choisissez une difficulté parmi celles ci-dessous :
+
+1. Paisible              | 2. Expérimenté          | 3. Cauchemar 
+                         |                         |
+Bill Ciphon est au       | Bill Ciphon a acquis    | Bill Ciphon est au
+plus bas de sa puissance.| de la puissance avant   | plus haut de sa
+Vous aurez cinq vies     | de venir vous affronter.| puissance, faites très
+pour sauver le monde     | Vous aurez trois vies   | attention, vous aurez
+                         | pour sauver le monde    | UNIQUEMENT une seule 
+                         |                         | vie pour sauver le 
+                         |                         | monde

@@ -1,0 +1,12 @@
+Choisissez un personnage parmi ceux ci-dessous :
+
+1. Chevalier              2. Archer            3. Alchimiste          4. Barde             5. Princesse             6. Cartographe        7. Roi     
+
+Le chevalier est       |  L'archer a besoin |  L'alchimiste        |  Le barde montre   |  La princesse cherche  |  Le cartographe     |  Le Roi possède
+un professionnel en    |  de ton aide pour  |  utilise ses con-    |  son éloquence     |  ses mots...           |  cherche son chemin.|  toutes les connaissances
+histoire. Choisissez   |  bien viser.       |  -naissances en      |  grâce à l'anglais.|  Choisissez ce         |  Choisissez ce      |  du Royaume. 
+ce personnage pour     |  Choisissez ce     |  sciences. Choisissez|  Choisissez ce     |  personnage pour       |  personnage pour    |  Choisissez ce
+répondre à des         |  personnage pour   |  ce personnage pour  |  personnage pour   |  répondre à des        |  répondre à des     |  personnage pour
+questions d'histoire   |  répondre à des    |  répondre à des      |  répondre à des    |  questions de grammaire|  questions de       |  répondre à des 
+                       |  questions de      |  questions de        |  questions         |  en français           |  géographie         |  questions de tous
+                       |  géométrie         |  sciences            |  d'Anglais         |                        |                     |  les types 
